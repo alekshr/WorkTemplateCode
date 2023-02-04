@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameResources/Feature/ServiceLocator/Scene/ExampleSceneServiceLocator.unity
+    guid: 2cc1e2ebe78f7eb64833839df42600d7
+  - enabled: 1
+    path: Assets/GameResources/Feature/ServiceLocator/Scene/ExampleSceneServiceLocatorNonSceneProvider.unity
+    guid: 97a10358d5dc437ec8d8c4498b21d294
+  m_configObjects: {}
